@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EasyTotp": {
+      "commandName": "Project",
+      "commandLineArgs": "BEB5KENJJCLBEKVR 15 "
+    }
+  }
+}
